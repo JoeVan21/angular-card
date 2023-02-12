@@ -1,7 +1,7 @@
-img{
+.img{
     max-width: 400px;
   }
-  button {
+  .button {
     cursor:pointer;
     margin: 1px;
     border: 2px dashed blue;
@@ -24,11 +24,11 @@ img{
    justify-content:center;
     display:flex;
   }
-  button:hover{
+  .button:hover{
     background-color: #0400FE;
   }
   
-  button:focus{
+  .button:focus{
     background-color: #0400FE;
   }
   
